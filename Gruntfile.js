@@ -16,6 +16,7 @@ module.exports = function(grunt) {
 
   // Load the plugin that provides the "uglify" task.
   grunt.loadNpmTasks('grunt-contrib-uglify');
+  grunt.loadNpmTasks('grunt-bowercopy');
 
   // Default task(s).
   grunt.registerTask('default', ['uglify']);
