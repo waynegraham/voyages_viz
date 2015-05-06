@@ -1,9 +1,6 @@
-/* global: L */
+/* global L: true */
 $(function() {
   'use strict';
-
-  L = L || {};
-  L.Playback = L.Playback || {};
 
   var slabText = '███████╗ ██████╗██╗  ██╗ ██████╗ ██╗      █████╗ ██████╗ ███████╗    ██╗      █████╗ ██████╗';
   slabText += '\n██╔════╝██╔════╝██║  ██║██╔═══██╗██║     ██╔══██╗██╔══██╗██╔════╝    ██║     ██╔══██╗██╔══██╗';
@@ -26,8 +23,8 @@ $(function() {
     id: 'examples.map-i875mjb7'
   }).addTo(map);
 
-  var leg_1 = new L.LayerGroup();
-  L.geoJson(leg_1).addTo(map);
+  //var leg_1 = new L.LayerGroup();
+  //L.geoJson(leg_1).addTo(map);
 
 
   // =====================================================
