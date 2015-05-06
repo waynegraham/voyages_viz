@@ -1,5 +1,6 @@
+node_modules
+dist
+.tmp
+.sass-cache
 bower_components
-data/
-node_modules/
-schema.rb
-tastdb_dbf.csv
+data

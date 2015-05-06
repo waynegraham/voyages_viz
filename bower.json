@@ -1,8 +1,8 @@
 {
   "name": "voyages",
-  "version": "0.0.1",
+  "private": true,
   "dependencies": {
-    "leaflet": "~0.7.3"
-  },
-  "private": true
+    "bootstrap-sass-official": "~3.2.0",
+    "modernizr": "~2.8.2"
+  }
 }
