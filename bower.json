@@ -3,6 +3,9 @@
   "private": true,
   "dependencies": {
     "bootstrap-sass-official": "~3.2.0",
-    "modernizr": "~2.8.2"
+    "modernizr": "~2.8.2",
+    "jquery-ui": "~1.11.4",
+    "leaflet": "~0.7.3",
+    "leaflet-slider": "git@github.com:dwilhelm89/LeafletSlider.git#~1.0.4"
   }
 }
