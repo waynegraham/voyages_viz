@@ -6,6 +6,10 @@
     "modernizr": "~2.8.2",
     "jquery-ui": "~1.11.4",
     "leaflet": "~0.7.3",
-    "leaflet-slider": "git@github.com:dwilhelm89/LeafletSlider.git#~1.0.4"
+    "leaflet-slider": "git@github.com:dwilhelm89/LeafletSlider.git#~1.0.4",
+    "d3": "~3.5.5",
+    "d3-geo-projection": "~0.2.15",
+    "topojson": "~1.6.19",
+    "d3-topojson-layer": "~0.0.4"
   }
 }
